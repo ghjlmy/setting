@@ -1,5 +1,5 @@
 <template>
-
+  <div>GY在HJ文件里面创建B组件</div>
 </template>
 
 <script>
