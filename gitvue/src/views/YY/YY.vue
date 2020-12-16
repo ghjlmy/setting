@@ -1,6 +1,7 @@
 <template>
 <div>
-<p>hello,这里是韩诗煜的vue</p>
+    <p>hello,这里是韩诗煜的vue</p>
+    <p>葛妍动了诗煜的组件</p>
 </div>
 </template>
 <script>
