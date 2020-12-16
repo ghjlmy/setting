@@ -1,5 +1,5 @@
 <template>
-$END$
+<p>海军的BB</p>
 </template>
 
 <script>
