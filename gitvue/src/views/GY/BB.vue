@@ -1,14 +1,15 @@
 <template>
+
     <div>
-        hahahhah  韩诗煜的 BB.vue
+        这是GY创建的B组件
     </div>
 </template>
 
 <script>
+    export default {
+        name: "B"
+    }
 
-export default {
-name: "BB"
-}
 </script>
 
 <style scoped>

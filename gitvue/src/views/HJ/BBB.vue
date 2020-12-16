@@ -1,14 +1,13 @@
 <template>
     <div>
-        hahahhah  韩诗煜的 BB.vue
+    <p>海军的BB</p>
     </div>
 </template>
 
 <script>
-
-export default {
-name: "BB"
-}
+    export default {
+        name: "BBB"
+    }
 </script>
 
 <style scoped>
