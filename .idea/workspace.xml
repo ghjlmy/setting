@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a8674b9-e90c-4741-b232-81582be9a098" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gitvue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/gitvue/src/views/Home.vue" afterDir="false" />
-    </list>
+    <list default="true" id="1a8674b9-e90c-4741-b232-81582be9a098" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +37,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608090493324</updated>
-      <workItem from="1608090496441" duration="1189000" />
+      <workItem from="1608090496441" duration="1857000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
