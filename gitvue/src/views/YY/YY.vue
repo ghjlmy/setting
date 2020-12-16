@@ -1,5 +1,7 @@
 <template>
-$END$
+<div>
+<p>hello,这里是韩诗煜的vue</p>
+</div>
 </template>
 
 <script>
